@@ -1,0 +1,2 @@
+# Mining
+a mining website
